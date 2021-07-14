@@ -1,0 +1,2 @@
+C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

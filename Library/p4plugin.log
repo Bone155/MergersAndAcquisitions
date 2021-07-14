@@ -1,0 +1,37 @@
+chmod: C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\ProjectSettings\XRSettings.asset: The system cannot find the file specified. 
+
+p1:-1 1 Change 12769 created with 1 open file(s).
+p1:-1 1 Submitting change 12769.
+p1:-1 1 //2021-crossPlatformA/TEAM_A/ProjectSettings/EditorSettings.asset - must resolve before submitting
+p1:-1 1 //2021-crossPlatformA/TEAM_A/ProjectSettings/EditorSettings.asset - must resolve #4,#5
+Out of date files must be resolved or reverted.
+Submit failed -- fix problems above then use 'p4 submit -c 12769'.
+
+e1:Out of date files must be resolved or reverted.\nSubmit failed -- fix problems above then use 'p4 submit -c 12769'.\n
+Can't clobber writable file C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\Assets\Scripts\AlexScripts\SceneSwitch.cs.meta
+
+e1:Can't clobber writable file C:\\Users\\Bonesteele\\Perforce\\s199010_Bonesteele_DESKTOP\\2021-crossPlatformA\\TEAM_A\\Assets\\Scripts\\AlexScripts\\SceneSwitch.cs.meta\n
+chmod: C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\Assets\Scripts\AlexScripts\SceneSwitch.cs.meta: The system cannot find the file specified. 
+
+e1:chmod: C:\\Users\\Bonesteele\\Perforce\\s199010_Bonesteele_DESKTOP\\2021-crossPlatformA\\TEAM_A\\Assets\\Scripts\\AlexScripts\\SceneSwitch.cs.meta: The system cannot find the file specified. \n
+C:/Users/Bonesteele/Perforce/s199010_Bonesteele_DESKTOP/2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity.meta - file(s) not opened on this client.
+
+w1:C:/Users/Bonesteele/Perforce/s199010_Bonesteele_DESKTOP/2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity.meta - file(s) not opened on this client.\n
+p1:-1 0 Change 13602 created with 1 open file(s).
+p1:-1 0 Submitting change 13602.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity#6
+p1:-1 0 Change 13602 submitted.
+C:/Users/Bonesteele/Perforce/s199010_Bonesteele_DESKTOP/2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity.meta - file(s) not opened on this client.
+
+w1:C:/Users/Bonesteele/Perforce/s199010_Bonesteele_DESKTOP/2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity.meta - file(s) not opened on this client.\n
+p1:-1 0 Change 13619 created with 1 open file(s).
+p1:-1 0 Submitting change 13619.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //2021-crossPlatformA/TEAM_A/Assets/Scenes/MainGame.unity#7
+p1:-1 0 Change 13619 submitted.
+Can't clobber writable file C:\Users\Bonesteele\Perforce\s199010_Bonesteele_DESKTOP\2021-crossPlatformA\TEAM_A\Assets\Scripts\AlexScripts\SceneSwitch.cs
+
+e1:Can't clobber writable file C:\\Users\\Bonesteele\\Perforce\\s199010_Bonesteele_DESKTOP\\2021-crossPlatformA\\TEAM_A\\Assets\\Scripts\\AlexScripts\\SceneSwitch.cs\n
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
